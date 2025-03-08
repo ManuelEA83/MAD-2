@@ -1,0 +1,22 @@
+hola
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   MoodTracker_template.aia
+#	new file:   backend-app/.gitignore
+#	new file:   backend-app/Models/app.js
+#	new file:   backend-app/Models/series.model.js
+#	new file:   backend-app/Models/tv_series.model.js
+#	new file:   backend-app/controllers/tv_series.controller.js
+#	new file:   backend-app/index.js
+#	new file:   backend-app/package-lock.json
+#	new file:   backend-app/package.json
+#	new file:   backend-app/routes/tv_series.route.js
+#	new file:   index.js
+#	new file:   routes/tvseries.route.js
+#
